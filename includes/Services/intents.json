@@ -1,0 +1,70 @@
+{
+    "intents": {
+      "product.search": {
+        "patterns": [
+          "show me products",
+          "what products do you have",
+          "i want to buy something",
+          "can you recommend a product",
+          "give me some product options",
+          "what can I buy"
+        ]
+      },
+      "faq.returns": {
+        "patterns": [
+          "how do i return",
+          "return policy",
+          "can i return",
+          "how to return an item",
+          "is returning possible"
+        ]
+      },
+      "faq.shipping": {
+        "patterns": [
+          "what is the shipping policy",
+          "how long does shipping take",
+          "when will my order arrive",
+          "shipping rates",
+          "do you offer free shipping"
+        ]
+      },
+      "product.recommendation": {
+        "patterns": [
+          "recommend me a product",
+          "find a product for me",
+          "suggest something for me",
+          "can you suggest a product",
+          "what should I buy"
+        ]
+      },
+      "order.status": {
+        "patterns": [
+          "where is my order",
+          "track my order",
+          "order status",
+          "when will my order arrive",
+          "has my order shipped"
+        ]
+      },
+      "greetings": {
+        "patterns": [
+          "hello",
+          "hi",
+          "hey",
+          "good morning",
+          "good afternoon",
+          "good evening"
+        ]
+      },
+      "goodbye": {
+        "patterns": [
+          "goodbye",
+          "bye",
+          "see you later",
+          "thank you",
+          "thanks"
+        ]
+      }
+    }
+  }
+  
